@@ -11,4 +11,5 @@ Primerio projeto feito em <EM>PHP 5.4 </EM> no ano de 2017
           <li>CSS.BOOSTSTRAP</li>
           <li>js</li>
           <li>PHP</li>
+          <li>SQL - phpmyadmin</li>
         </ul>
